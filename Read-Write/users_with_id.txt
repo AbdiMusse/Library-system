@@ -1,0 +1,12 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignored
+
+// New user data
+// data is customerID, surname, firstName, otherInitials, title
+
+[Library User Data]
+
+AB-117599, Newton, David, E, Dr
+AB-800970, Gregson, Brian, R T, Mr
+AB-838601, Evans, David, , Dr
+AB-838636, Smith, Sara, C, Ms
