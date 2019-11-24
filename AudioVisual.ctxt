@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AudioVisual
+comment0.text=\r\n\ This\ is\ a\ superClass\ of\ CD\ and\ DVD\r\n\r\n\ @author\ Abdi-rahman\ Musse\r\n\ @version\ 4.6\r\n
+comment1.params=
+comment1.target=AudioVisual()
+comment1.text=\r\n\ Constructor\ for\ creating\ an\ empty\ AudioVisual\ object\r\n
+comment2.params=scanner
+comment2.target=void\ extractData(java.util.Scanner)
+comment2.text=\r\n\ Extracts\ data\ from\ a\ file\r\n\ @param\ Scanner\ is\ used\ in\ the\ library\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Prints\ out\ the\ details\ of\ each\ object\r\n
+comment4.params=
+comment4.target=int\ getPlayTime()
+comment4.text=\r\n\ @return\ The\ play\ time\ in\ minutes\r\n
+comment5.params=newTime
+comment5.target=void\ setPlayTime(int)
+comment5.text=\r\n\ Set\ the\ play\ time\ in\ minutes\r\n\ @param\ new\ time\r\n
+numComments=6

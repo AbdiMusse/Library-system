@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ This\ is\ a\ CD\ class\ that\ simulates\ an\ actual\ CD\r\n\r\n\ @author\ Abdi-rahman\ Musse\r\n\ @version\ 4.6\r\n
+comment1.params=
+comment1.target=CD()
+comment1.text=\r\n\ Constructor\ for\ creating\ an\ empty\ CD\ object\r\n
+comment2.params=scanner
+comment2.target=void\ extractData(java.util.Scanner)
+comment2.text=\r\n\ Extracts\ the\ data\ from\ a\ file\ where\ cd\ data\ are\ present\r\n\ @param\ Scanner\ is\ used\ in\ the\ library\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Prints\ out\ the\ details\ of\ the\ CD\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ getArtistName()
+comment4.text=\r\n\ @return\ The\ name\ of\ the\ artist\r\n
+comment5.params=
+comment5.target=int\ getNoOfTracks()
+comment5.text=\r\n\ @return\ The\ number\ of\ tracks\ in\ the\ CD\r\n
+comment6.params=newName
+comment6.target=void\ setArtistName(java.lang.String)
+comment6.text=\r\n\ Sets\ the\ name\ of\ the\ artist\r\n\ @param\ New\ name\r\n
+comment7.params=newNumber
+comment7.target=void\ setNoOfTracks(int)
+comment7.text=\r\n\ Sets\ the\ number\ of\ tracks\ in\ the\ CD\r\n\ @param\ New\ number\r\n
+numComments=8

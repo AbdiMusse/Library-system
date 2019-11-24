@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ This\ is\ a\ Book\ class\ that\ simulates\ an\ actual\ book\r\n\r\n\ @author\ Abdi-rahman\ Musse\r\n\ @version\ 4.6\r\n
+comment1.params=
+comment1.target=Book()
+comment1.text=\r\n\ Constructor\ for\ creating\ an\ empty\ Book\ object\r\n
+comment2.params=scanner
+comment2.target=void\ extractData(java.util.Scanner)
+comment2.text=\r\n\ Extracts\ the\ data\ from\ a\ file\ where\ book\ data\ are\ present\r\n\ @param\ Scanner\ is\ used\ in\ the\ library\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Prints\ out\ the\ details\ of\ the\ book\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAuthor()
+comment4.text=\r\n\ @return\ The\ name\ of\ the\ author\r\n
+comment5.params=
+comment5.target=java.lang.String\ getISNBN()
+comment5.text=\r\n\ @return\ The\ isbn\ number\r\n
+comment6.params=newName
+comment6.target=void\ setAuthor(java.lang.String)
+comment6.text=\r\n\ Sets\ new\ name\ for\ the\ author\r\n\ @param\ new\ name\r\n
+comment7.params=number
+comment7.target=void\ setISNBN(java.lang.String)
+comment7.text=\r\n\ Sets\ new\ ISBN\ number\ for\ the\ user\r\n\ @param\ new\ number\r\n
+numComments=8

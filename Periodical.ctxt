@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Periodical
+comment0.text=\r\n\ This\ is\ a\ Periodical\ class\ that\ simulates\ an\ actual\ Periodical\r\n\r\n\ @author\ Abdi-rahman\ Musse\r\n\ @version\ 4.6\r\n
+comment1.params=
+comment1.target=Periodical()
+comment1.text=\r\n\ Constructor\ for\ creating\ an\ empty\ Periodical\ object\r\n
+comment2.params=scanner
+comment2.target=void\ extractData(java.util.Scanner)
+comment2.text=\r\n\ Extracts\ the\ data\ from\ a\ file\ where\ Periodical\ data\ are\ present\r\n\ @param\ Scanner\ is\ used\ in\ the\ library\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Prints\ out\ the\ details\ of\ the\ periodical\ object\r\n
+comment4.params=
+comment4.target=java.lang.String\ getPublicationDate()
+comment4.text=\r\n\ @return\ The\ date\ of\ publication\r\n
+comment5.params=newDate
+comment5.target=void\ setPublicationDate(java.lang.String)
+comment5.text=\r\n\ Set\ a\ date\ of\ publication\r\n\ @param\ new\ date\r\n
+numComments=6

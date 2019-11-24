@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PrintedItem
+comment0.text=\r\n\ This\ is\ a\ superClass\ of\ Book\ and\ Periodical\r\n\ \r\n\ @author\ Abdi-rahman\ Muse\r\n\ @version\ 4.6\r\n
+comment1.params=
+comment1.target=PrintedItem()
+comment1.text=\r\n\ Constructor\ for\ creating\ an\ empty\ PrintedItem\ object\r\n
+comment2.params=scanner
+comment2.target=void\ extractData(java.util.Scanner)
+comment2.text=\r\n\ Extracts\ data\ from\ a\ file\r\n\ @param\ Scanner\ is\ used\ in\ the\ library\ Class\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ Prints\ out\ the\ details\ of\ each\ object\r\n
+comment4.params=
+comment4.target=int\ getNoOfPages()
+comment4.text=\r\n\ @return\ The\ number\ of\ pages\r\n
+comment5.params=
+comment5.target=java.lang.String\ getPublisher()
+comment5.text=\r\n\ @return\ The\ publishers\ name\r\n
+comment6.params=newNumber
+comment6.target=void\ setNoOfPages(int)
+comment6.text=\r\n\ Set\ the\ number\ of\ pages\r\n\ @param\ New\ number\r\n
+comment7.params=newName
+comment7.target=void\ setPublisherName(java.lang.String)
+comment7.text=\r\n\ Set\ the\ name\ of\ the\ publisher\r\n\ @param\ New\ name\r\n
+numComments=8
